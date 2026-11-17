@@ -3,27 +3,27 @@ title = "Codex"
 identifier = "ora-space.codex"
 namespace = "official"
 kind = "agent"
-version = "0.3.14"
+version = "0.3.19"
 description = "Ora Space Codex Agent"
 homepage = "https://github.com/ora-space/codex-agent"
 license = "Apache-2.0"
 
 [[targets]]
 target = "x86_64-pc-windows-msvc"
-url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.14/ora-space.codex-v0.3.14-x86_64-pc-windows-msvc.orax"
-sha256 = "1ec90aed062f130ad29d2886ae86bcfb3742b987346d960306d672135d16fbc6"
+url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.19/ora-space.codex-v0.3.19-x86_64-pc-windows-msvc.orax"
+sha256 = "acd4e37cb523f8539ea4930c25e8bc30789bb21784769aeb62cd8ad4d1bd1424"
 
 [[targets]]
 target = "aarch64-apple-darwin"
-url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.14/ora-space.codex-v0.3.14-aarch64-apple-darwin.orax"
-sha256 = "d67c234f96aaf23fd3271201481b8a8e581f1b6e8e373c592ad4494ed5e1b362"
+url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.19/ora-space.codex-v0.3.19-aarch64-apple-darwin.orax"
+sha256 = "ac9170a2cd7560ea96673e5efb9dd976226c1e62258c2e6a0220327a6379202e"
 
 [[targets]]
 target = "x86_64-unknown-linux-gnu"
-url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.14/ora-space.codex-v0.3.14-x86_64-unknown-linux-gnu.orax"
-sha256 = "a32b463a1a677e932bf1eca075bf8def0aa4a5254e2c42e459e180bd601d8b03"
+url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.19/ora-space.codex-v0.3.19-x86_64-unknown-linux-gnu.orax"
+sha256 = "8e3972f1216b577681040a50ecf622e9eb06a426a9e2691d48384ee1ec4d3b83"
 
 [[targets]]
 target = "aarch64-unknown-linux-gnu"
-url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.14/ora-space.codex-v0.3.14-aarch64-unknown-linux-gnu.orax"
-sha256 = "75384d334795204bb846db770ea6d71e2b790418ad90c0832198108922f8185f"
+url = "https://github.com/ora-space/codex-agent/releases/download/v0.3.19/ora-space.codex-v0.3.19-aarch64-unknown-linux-gnu.orax"
+sha256 = "28335cf10a94ba83cf20febf3222fdc8a9e8abc182f92b38f1796ecd65bf49e8"
